@@ -84,17 +84,25 @@ In some respects, visualization in ArcGIS Online offers more options and simpler
 12. ![image unique symbols options](https://user-images.githubusercontent.com/45638590/228652994-b177d8ee-5c6e-4c6f-9080-34444db42b9f.png)
 
 13. Click the colour ramp for symbol style.
-14. For Outline Colour, select the black option.
-
-![image](https://user-images.githubusercontent.com/45638590/228653257-4a9debd8-e25f-4fb2-a13c-852e84f4cb61.png)
+14. For Outline Colour, select the black option. ![image colour option for outline](https://user-images.githubusercontent.com/45638590/228653257-4a9debd8-e25f-4fb2-a13c-852e84f4cb61.png)
 
 15. Click Done then click the Counts and Amounts style options.
 
 ![image](https://user-images.githubusercontent.com/45638590/228653512-667b6f1a-0037-43d8-a35c-113ffcd9dc19.png)
 
+16. Scroll, if necessary, to change the size range from 90 to 20.
+
+![image](https://user-images.githubusercontent.com/45638590/228654737-4d6af67d-0edb-4314-bd6c-c03b798c556d.png)
+
+17. Click Done twice.
+18. To give the map a little 'pop', click the effects options ![image](https://user-images.githubusercontent.com/45638590/228655102-85daf1b8-64e3-4f8a-940e-43f3f0f7e230.png) 
+19. Toggle on the Drop Shadow option.
+
+![image of final map with trees symbolized](https://user-images.githubusercontent.com/45638590/228655289-a9109e1d-569a-4980-a071-a09d760c1140.png)
 
 
-9. ![image](https://user-images.githubusercontent.com/45638590/228651622-bbc0bb2a-a9a5-4a17-97fa-e2af63e5474e.png)
+
+![image](https://user-images.githubusercontent.com/45638590/228654920-c2650019-6ee3-4200-8552-6275a4678877.png)
 
 
 "tree tutorial Chippewa data"
