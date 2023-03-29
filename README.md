@@ -44,7 +44,7 @@ Although there are many ways of creating visualizations using GIS technologies, 
 
 The trees are now symbolized by colour for tree species and size for diameter at breast height (DBH).
 
-![image showing symbolized trees](https://user-images.githubusercontent.com/45638590/228630488-88e7603f-9c2c-4e7c-9d78-617d76544d66.png)
+![image showing symbolized trees](https://user-images.githubusercontent.com/45638590/228630488-88e7603f-9c2c-4e7c-9d78-617d76544d66.png)  
 
 ##Saving and Sharing
 
@@ -57,15 +57,47 @@ The trees are now symbolized by colour for tree species and size for diameter at
 ![image of Package Layers dialogue box](https://user-images.githubusercontent.com/45638590/228631866-0a00b8b7-2352-4ca3-916a-a767a0399d2f.png)
 
 6. At the bottom of the the pane, click **Analyze** to see if there are any problems and then click **Package**. 
-7. Open Windows File Explorer and navigate to the location where you saved the file ![image](https://user-images.githubusercontent.com/45638590/228633466-1ea31a72-e04b-4d19-a9f5-67ea4d11dc54.png)
-This **.lpkx** can be shared with colleagues who are also using ArcGIS Pro.
+7. Open Windows File Explorer and navigate to the location where you saved the file ![image of a layer file](https://user-images.githubusercontent.com/45638590/228633466-1ea31a72-e04b-4d19-a9f5-67ea4d11dc54.png)  
+This **.lpkx** can be shared with colleagues who are also using ArcGIS Pro.  
 
-Continue with the next tutorial to see how to create a layout and share your work via PDF or JPEG.
+Continue with the next tutorial to see how to create a layout and share your work via PDF or JPEG.  
 
 ##Visualization in ArcGIS Online
 
 In some respects, visualization in ArcGIS Online offers more options and simpler workflows.
 
+1. Go to https://arcgis.com and sign in to your ArcGIS Organization, brock.maps.arcgis.com > Brock university (when prompted with the Brock authentication page, enter your Brock credentials.
+2. Click Map at the top of the screen. 
+3. Click Add and change the folder from **My Content** to **ArcGIS Online**.
+4. Enter the keywords "Chippewa tree tutorial" and click the plus sign to add the layer to your map.
+
+![image of add layer in arcgis online](https://user-images.githubusercontent.com/45638590/228650762-ec325a71-09fc-43ba-b1ca-b7f921953ee8.png)
+
+5. Click the back arrow to return to the layer listing ![image](https://user-images.githubusercontent.com/45638590/228650982-2a30be04-cb2c-435d-9f49-bc54cdaa3541.png)
+
+6. Click the **Styles** button ![image](https://user-images.githubusercontent.com/45638590/228651117-f0f829ec-0889-4eae-a9dd-caa7a5838585.png) from the menu to the right.
+7. In the Styles pane, make the following selections:
+8. From Step One, click ![image add field button](https://user-images.githubusercontent.com/45638590/228651667-095d1d71-c2cc-42cc-a8d4-bab9cf88f7f0.png) then select the field to map, in this case, select **TreeSpecies**.
+9. Click ![image add field button](https://user-images.githubusercontent.com/45638590/228651854-733cc3ba-65c1-48b0-a062-c5ef6092ff5a.png) again and select **DBHTrunk**. The symbols are updated with colours representing species and proportional symbols representing diameter. 
+10. From Step 2 of the Styles pane, **Pick a Style**, select **Style Options** for types and size. There will be 2 options: one for unique symbols and one for counts and amounts.
+11. Click the options for **unique symbols**. 
+12. ![image unique symbols options](https://user-images.githubusercontent.com/45638590/228652994-b177d8ee-5c6e-4c6f-9080-34444db42b9f.png)
+
+13. Click the colour ramp for symbol style.
+14. For Outline Colour, select the black option.
+
+![image](https://user-images.githubusercontent.com/45638590/228653257-4a9debd8-e25f-4fb2-a13c-852e84f4cb61.png)
+
+15. Click Done then click the Counts and Amounts style options.
+
+![image](https://user-images.githubusercontent.com/45638590/228653512-667b6f1a-0037-43d8-a35c-113ffcd9dc19.png)
+
+
+
+9. ![image](https://user-images.githubusercontent.com/45638590/228651622-bbc0bb2a-a9a5-4a17-97fa-e2af63e5474e.png)
+
+
+"tree tutorial Chippewa data"
 
 
 
