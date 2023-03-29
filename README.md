@@ -35,7 +35,7 @@ Although there are many ways of creating visualizations using GIS technologies, 
 12. Select a colour scheme from the dropdown.  
  ![image](https://user-images.githubusercontent.com/45638590/228628961-9c6ea78f-95d6-44aa-954e-e65f14c769d8.png)  
 13. To vary symbology by size as well as colour, click ![image](https://user-images.githubusercontent.com/45638590/228629130-dea883ef-7aee-4a28-b44f-fadde23c7baf.png)
-.
+ from the Symbology pane.
 14. Click **Size** and select **DBHTrunk** from the field dropdown.
 15. Check the box to **Enable size range** and adjust the range to be 2 at minimum and 20 at maximum.
 16. Scroll down and select **Show in Legend**. 
@@ -46,8 +46,25 @@ The trees are now symbolized by colour for tree species and size for diameter at
 
 ![image showing symbolized trees](https://user-images.githubusercontent.com/45638590/228630488-88e7603f-9c2c-4e7c-9d78-617d76544d66.png)
 
+##Saving and Sharing
 
-save
+1. From the Contents listing, right-click the tree layer.
+2. From the context menu, select **Sharing > Share as a layer package**. A layer package includes the assigned symbology and layer data your colleagues might need to work with the data effectively. 
+3. Under **Start Packaging** choose **Save package to file** (alternately, you could upload the package to ArcGIS Online).
+4. Under **Item Details** select a location and file name; summary and tags.
+5. Under **Options** check the box to **Include Enterprise and UNC Path Data**. This option tells the software to include the data layers with the package. 
+
+![image of Package Layers dialogue box](https://user-images.githubusercontent.com/45638590/228631866-0a00b8b7-2352-4ca3-916a-a767a0399d2f.png)
+
+6. At the bottom of the the pane, click **Analyze** to see if there are any problems and then click **Package**. 
+7. Open Windows File Explorer and navigate to the location where you saved the file ![image](https://user-images.githubusercontent.com/45638590/228633466-1ea31a72-e04b-4d19-a9f5-67ea4d11dc54.png)
+This **.lpkx** can be shared with colleagues who are also using ArcGIS Pro.
+
+Continue with the next tutorial to see how to create a layout and share your work via PDF or JPEG.
+
+##Visualization in ArcGIS Online
+
+In some respects, visualization in ArcGIS Online offers more options and simpler workflows.
 
 
 
