@@ -1,30 +1,38 @@
-Add in the tutorial image here 
+![image showing sample visualization](https://user-images.githubusercontent.com/45638590/228588371-86b25a59-9c83-4897-8cc8-bb7695b3e4f9.png)
 
-![Tool Logo](Image filename)
-
-# Title of Tutorial
-Description of tutorial including what you will learn and any tools that will be used in the process
+# ArcGIS Visualization
+This tutorial will look at the steps necessary for ArcGIS Pro and ArcGIS Online as a geospatial data visualization tool.
 
 ----
 
 ## Setup Instructions
-In preparation for this tutorial, you will need...
+In preparation for this tutorial, you will need an organizational account with Esri. If you are a Brock user, you will sign into the software using your Brock credentials and the organization's URL brock.maps.arcgis.com.
 
-Include:
- - All software that needs to be downloaded
- - Any accounts that will need to be made including links to the sign up pages for those accounts
- - All files that will need to be downloaded in order to participate in the workshop as well as instructions on exactly how to download them.  
+**The Scenario**
 
-For all of the above, keep in mind that some people could be using machines on campus (or elsewhere) that might have limitations in regards to downloading tools and files so be sure to mention that somewhere.
+We will be mapping tree sample data for the neighbourhood of Bridgewater near Niagara Falls and Chippewa. Tabular data was joined with the geospatial data creating a powerful connection that will allow us to visualize attributes such as diameter at breast height and tree species. Although this example uses point data, the same general steps could apply to boundary files such as census tracts or municipal boundaries and associated tabular data.
 
 ----
 
-## Tutorial Steps
-Each tutorial will be different based on the tools used.  Breaking the tutorial up into individual steps is highly reccomended as it reduces congnitive load and allows for "break points" where users can stop and start from at their leisure.  Each step should cover no more than 1 or two concepts and should always assume that the user has minimal experience (explain every action in as granular detail as possible).
+## Visualization in ArcGIS Pro
+Although there are many ways of creating visualizations using GIS technologies, we will explore some simple options for unique colours and proportional symbols. 
 
-If you are enhancing your tutorial with embedded content like H5P modules or Youtube videos, make sure to check how they will look on different mediums.  Generally they will look good on any computer monitor or projector but depending on where you got the embed code from it may not adjust nicely for mobile and tablet viewing.
+1. Run ArcGIS Pro and sign in using the organization's sign in workflow
 
-When embedding an iframe, make sure to place at least 2 blank lines above and below it in the markdown file to avoid the HTML interfereing with your markdown syntax.
+
+Add joined data from previous activity
+map properties > coordinate system > UTM > projected > NAD 1983
+
+with the layer selected > Feature Layer > Symbology
+display tree species by colour
+group items
+add attribute > size > DBH
+adjust settings
+
+save
+
+
+
 
 ----
 
