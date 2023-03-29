@@ -100,10 +100,16 @@ In some respects, visualization in ArcGIS Online offers more options and simpler
 
 ![image of final map with trees symbolized](https://user-images.githubusercontent.com/45638590/228655289-a9109e1d-569a-4980-a071-a09d760c1140.png)
 
+20. Click the Save button from the left hand menu and save the map with a unique name.
+21. To share your map as an image, click ![image print button](https://user-images.githubusercontent.com/45638590/228656138-a673d0c7-a606-4047-b569-07e43bbbe0a1.png)
+22. Click Advanced Options and enter a title, set scale (~4500), author, copyright and check the box to include a legend.
+23. Click Export. When the file is complete there will be a link to your file below the Export button.
 
+![image](https://user-images.githubusercontent.com/45638590/228656813-240732c2-0813-4246-907d-4b8e22322731.png)
 
-![image](https://user-images.githubusercontent.com/45638590/228654920-c2650019-6ee3-4200-8552-6275a4678877.png)
+![image of final map](https://user-images.githubusercontent.com/45638590/228657032-ca430898-220c-4584-82ba-4ac04928a95d.png)
 
+In some instances, the legend may be too large to fit on the page size map.
 
 "tree tutorial Chippewa data"
 
