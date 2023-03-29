@@ -32,7 +32,7 @@ Although there are many ways of creating visualizations using GIS technologies, 
 9. With the layer selected from the Contents listing, click the **Feature Layer** tab at the top.
 10. Click **Symbology**. The Symbology pane appears to the right of the map view. 
 11. From the **Primary Symbology** dropdown, select **Unique Values** and select Field1 -> Tree Species
-12. Select a colour scheme from the dropdown.
+12. Select a colour scheme from the dropdown.  
  ![image](https://user-images.githubusercontent.com/45638590/228628961-9c6ea78f-95d6-44aa-954e-e65f14c769d8.png)  
 13. To vary symbology by size as well as colour, click ![image](https://user-images.githubusercontent.com/45638590/228629130-dea883ef-7aee-4a28-b44f-fadde23c7baf.png)
 .
@@ -40,15 +40,12 @@ Although there are many ways of creating visualizations using GIS technologies, 
 15. Check the box to **Enable size range** and adjust the range to be 2 at minimum and 20 at maximum.
 16. Scroll down and select **Show in Legend**. 
 
-![image of symbology settings](https://user-images.githubusercontent.com/45638590/228629406-7c4b5bf5-e7e7-40f6-98a4-4177f3246ada.png)
+![image of symbology settings](https://user-images.githubusercontent.com/45638590/228630103-27c1eddb-6173-40a4-a737-ff3e4c8347c2.png)
 
-display tree species by colour
-group items
-add attribute > size > DBH
+The trees are now symbolized by colour for tree species and size for diameter at breast height (DBH).
 
-![image](https://user-images.githubusercontent.com/45638590/228626221-07574b43-fa20-4c28-8b13-c9b116a378fc.png)
+![image showing symbolized trees](https://user-images.githubusercontent.com/45638590/228630488-88e7603f-9c2c-4e7c-9d78-617d76544d66.png)
 
-adjust settings
 
 save
 
