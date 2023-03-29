@@ -18,10 +18,17 @@ We will be mapping tree sample data for the neighbourhood of Bridgewater near Ni
 Although there are many ways of creating visualizations using GIS technologies, we will explore some simple options for unique colours and proportional symbols. 
 
 1. Run ArcGIS Pro and sign in using the organization's sign in workflow **insert link to video**
-2. In a new map, add the joined layer from the previous exercise. Alternately, download the zipped shapefile here. Be sure to unzip the file before attempting these steps. **HINT: Right-click the zip file in Windows File Explorer and select *Extract all*. **
+2. In a new map, add the joined layer from the previous exercise. Alternately, download the zipped shapefile [here](https://github.com/BrockDSL/ArcGIS_Visualization/blob/main/TreeSampleChippewa%20_XYTableToPoint.zip). Be sure to unzip the file before attempting these steps. **HINT: Right-click the zip file in Windows File Explorer and select *Extract all*. **
 
   ![image showing shapefile in arcgis pro window](https://user-images.githubusercontent.com/45638590/228621113-640a8714-8a22-42ae-807e-1ec3f1d70661.png)
-3. 
+3. From the Contents pane on the left side of the map view, double-click **map** ![image of map frame](https://user-images.githubusercontent.com/45638590/228622520-6ffda3b0-5324-47fa-9cc7-1fdf5aadeee4.png) to open the map frame properties. It is good practise to set the projection of the map frame to a local coordinate system.
+4. From the map properties window, click **Coordinate System** and enter "UTM" in the search box.
+5. Double-click **Projected Coordinate System".
+6. Double-click **UTM** then **NAD 1983**.
+7. Select **NAD 1983 UTM Zone 17N** for the Niagara area.
+8. Click OK.
+
+
 map properties > coordinate system > UTM > projected > NAD 1983
 
 with the layer selected > Feature Layer > Symbology
