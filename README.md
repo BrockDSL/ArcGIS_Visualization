@@ -46,7 +46,7 @@ The trees are now symbolized by colour for tree species and size for diameter at
 
 ![image showing symbolized trees](https://user-images.githubusercontent.com/45638590/228630488-88e7603f-9c2c-4e7c-9d78-617d76544d66.png)  
 
-##Saving and Sharing
+## Saving and Sharing
 
 1. From the Contents listing, right-click the tree layer.
 2. From the context menu, select **Sharing > Share as a layer package**. A layer package includes the assigned symbology and layer data your colleagues might need to work with the data effectively. 
@@ -62,7 +62,7 @@ This **.lpkx** can be shared with colleagues who are also using ArcGIS Pro.
 
 Continue with the next tutorial to see how to create a layout and share your work via PDF or JPEG.  
 
-##Visualization in ArcGIS Online
+## Visualization in ArcGIS Online
 
 In some respects, visualization in ArcGIS Online offers more options and simpler workflows.
 
@@ -96,33 +96,30 @@ In some respects, visualization in ArcGIS Online offers more options and simpler
 
 17. Click Done twice.
 18. To give the map a little 'pop', click the effects options ![image](https://user-images.githubusercontent.com/45638590/228655102-85daf1b8-64e3-4f8a-940e-43f3f0f7e230.png) 
-19. Toggle on the Drop Shadow option.
+19. Toggle on the Drop Shadow option.  
 
-![image of final map with trees symbolized](https://user-images.githubusercontent.com/45638590/228655289-a9109e1d-569a-4980-a071-a09d760c1140.png)
+![image of final map with trees symbolized](https://user-images.githubusercontent.com/45638590/228655289-a9109e1d-569a-4980-a071-a09d760c1140.png)  
 
 20. Click the Save button from the left hand menu and save the map with a unique name.
 21. To share your map as an image, click ![image print button](https://user-images.githubusercontent.com/45638590/228656138-a673d0c7-a606-4047-b569-07e43bbbe0a1.png)
 22. Click Advanced Options and enter a title, set scale (~4500), author, copyright and check the box to include a legend.
 23. Click Export. When the file is complete there will be a link to your file below the Export button.
 
-![image](https://user-images.githubusercontent.com/45638590/228656813-240732c2-0813-4246-907d-4b8e22322731.png)
+![image](https://user-images.githubusercontent.com/45638590/228656813-240732c2-0813-4246-907d-4b8e22322731.png)  
 
-![image of final map](https://user-images.githubusercontent.com/45638590/228657032-ca430898-220c-4584-82ba-4ac04928a95d.png)
+![image of final map](https://user-images.githubusercontent.com/45638590/228657032-ca430898-220c-4584-82ba-4ac04928a95d.png)  
 
-In some instances, the legend may be too large to fit on the page size map.
+**NOTE: In some instances, the legend may be too large to fit on the page size map.**
 
-"tree tutorial Chippewa data"
+"tree tutorial Chippewa data" tags to find the map on AGOL
 
 
 
 ----
 
 ## Next Steps (Optional)
-This is where you can add any additional resources, follow up tutorial, or workshop reccomendations that users might use to continue learning about the tool described in the tutorial.  The more the better!
+Layout
 
 ----
 
-**End notes**
-This is where you mention the DSL, MDGL, or Research Lifecycle department and put in contact information.  An example of what this might look like is:
-
-**This tutorial is supported by the Brock University Research Lifecycle Department.  If you have any questions or concerns regarding this tutorial, don't hesitate to contact [DSL@Brocku.ca](mailto:DSL@Brocku.ca)**
+**This tutorial is supported by the Brock University Research Lifecycle Department, Map, Data & GIS Library.  If you have any questions or concerns regarding this tutorial, don't hesitate to contact [maplib@brocku.ca](mailto:maplib@brocku.ca)**
