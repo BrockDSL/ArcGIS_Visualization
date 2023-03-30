@@ -80,21 +80,22 @@ In some respects, visualization in ArcGIS Online offers more options and simpler
 8. From Step One, click ![image add field button](https://user-images.githubusercontent.com/45638590/228651667-095d1d71-c2cc-42cc-a8d4-bab9cf88f7f0.png) then select the field to map, in this case, select **TreeSpecies**.
 9. Click ![image add field button](https://user-images.githubusercontent.com/45638590/228651854-733cc3ba-65c1-48b0-a062-c5ef6092ff5a.png) again and select **DBHTrunk**. The symbols are updated with colours representing species and proportional symbols representing diameter. 
 10. From Step 2 of the Styles pane, **Pick a Style**, select **Style Options** for types and size. There will be 2 options: one for unique symbols and one for counts and amounts.
-11. Click the options for **unique symbols**. 
+11. Click style options for **unique symbols**. 
+
    ![image unique symbols options](https://user-images.githubusercontent.com/45638590/228652994-b177d8ee-5c6e-4c6f-9080-34444db42b9f.png)
 
-13. Click the colour ramp for symbol style.
+13. Click the colour ramp for symbol style.  
 14. For Outline Colour, select the black option. ![image colour option for outline](https://user-images.githubusercontent.com/45638590/228653257-4a9debd8-e25f-4fb2-a13c-852e84f4cb61.png)
 
-15. Click Done then click the Counts and Amounts style options.
+15. Click Done then click the Counts and Amounts style options.  
 
    ![image](https://user-images.githubusercontent.com/45638590/228653512-667b6f1a-0037-43d8-a35c-113ffcd9dc19.png)
 
-16. Scroll, if necessary, to change the size range from 90 to 20.
+16. Scroll, if necessary, to change the size range from 90 to 20.  
 
    ![image](https://user-images.githubusercontent.com/45638590/228654737-4d6af67d-0edb-4314-bd6c-c03b798c556d.png)
 
-17. Click Done twice.
+17. Click Done twice.  
 18. To give the map a little 'pop', click the effects options ![image](https://user-images.githubusercontent.com/45638590/228655102-85daf1b8-64e3-4f8a-940e-43f3f0f7e230.png) 
 19. Toggle on the Drop Shadow option.  
 
