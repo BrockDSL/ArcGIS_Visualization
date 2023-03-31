@@ -33,7 +33,9 @@ Although there are many ways of creating visualizations using GIS technologies, 
 10. Click **Symbology**. The Symbology pane appears to the right of the map view. 
 11. From the **Primary Symbology** dropdown, select **Unique Values** and select Field1 -> Tree Species
 12. Select a colour scheme from the dropdown.  
-   ![image](https://user-images.githubusercontent.com/45638590/228628961-9c6ea78f-95d6-44aa-954e-e65f14c769d8.png)  
+
+   ![image](https://user-images.githubusercontent.com/45638590/228628961-9c6ea78f-95d6-44aa-954e-e65f14c769d8.png) 
+ 
 13. To vary symbology by size as well as colour, click ![image](https://user-images.githubusercontent.com/45638590/228629130-dea883ef-7aee-4a28-b44f-fadde23c7baf.png)
  from the Symbology pane.
 14. Click **Size** and select **DBHTrunk** from the field dropdown.
@@ -84,7 +86,7 @@ In some respects, visualization in ArcGIS Online offers more options and simpler
 10. From Step 2 of the Styles pane, **Pick a Style**, select **Style Options** for types and size. There will be 2 options: one for unique symbols and one for counts and amounts.
 11. Click style options for **unique symbols**. 
 
-   ![image unique symbols options](https://user-images.githubusercontent.com/45638590/228652994-b177d8ee-5c6e-4c6f-9080-34444db42b9f.png)
+    ![image unique symbols options](https://user-images.githubusercontent.com/45638590/228652994-b177d8ee-5c6e-4c6f-9080-34444db42b9f.png)
 
 12. Click the colour ramp for symbol style.  
 13. For **Outline Colour**, select the black option. ![image colour option for outline](https://user-images.githubusercontent.com/45638590/228653257-4a9debd8-e25f-4fb2-a13c-852e84f4cb61.png)
