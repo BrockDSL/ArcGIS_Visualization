@@ -1,7 +1,7 @@
 ![image showing sample visualization](https://user-images.githubusercontent.com/45638590/228588371-86b25a59-9c83-4897-8cc8-bb7695b3e4f9.png)
 
 # ArcGIS Visualization
-This tutorial will look at the steps necessary for ArcGIS Pro and ArcGIS Online as a geospatial data visualization tool.
+This tutorial will introduce using ArcGIS Pro and ArcGIS Online as a geospatial data visualization tool.
 
 ----
 
@@ -61,7 +61,7 @@ The trees are now symbolized by colour for tree species and size for diameter at
 This **.lpkx** can be shared with colleagues who are also using ArcGIS Pro.  
 
 **NOTE: To use a .lpkx file, simply drag and drop the file to the map view from the Catalog pane.** 
-
+----
 ## Visualization in ArcGIS Online
 
 In some respects, visualization in ArcGIS Online offers more options and simpler workflows.
