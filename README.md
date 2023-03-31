@@ -62,8 +62,8 @@ This **.lpkx** can be shared with colleagues who are also using ArcGIS Pro.
 
 **NOTE: To use a .lpkx file, simply drag and drop the file to the map view from the Catalog pane.**  
 
-    ----   
-    
+---- 
+
 ## Visualization in ArcGIS Online
 
 In some respects, visualization in ArcGIS Online offers more options and simpler workflows.
