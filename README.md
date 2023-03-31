@@ -60,8 +60,10 @@ The trees are now symbolized by colour for tree species and size for diameter at
 7. Open Windows File Explorer and navigate to the location where you saved the file ![image of a layer file](https://user-images.githubusercontent.com/45638590/228633466-1ea31a72-e04b-4d19-a9f5-67ea4d11dc54.png)  
 This **.lpkx** can be shared with colleagues who are also using ArcGIS Pro.  
 
-**NOTE: To use a .lpkx file, simply drag and drop the file to the map view from the Catalog pane.** 
-----
+**NOTE: To use a .lpkx file, simply drag and drop the file to the map view from the Catalog pane.**  
+
+    ----   
+    
 ## Visualization in ArcGIS Online
 
 In some respects, visualization in ArcGIS Online offers more options and simpler workflows.
