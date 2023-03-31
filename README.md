@@ -85,9 +85,9 @@ In some respects, visualization in ArcGIS Online offers more options and simpler
    ![image unique symbols options](https://user-images.githubusercontent.com/45638590/228652994-b177d8ee-5c6e-4c6f-9080-34444db42b9f.png)
 
 12. Click the colour ramp for symbol style.  
-13. For Outline Colour, select the black option. ![image colour option for outline](https://user-images.githubusercontent.com/45638590/228653257-4a9debd8-e25f-4fb2-a13c-852e84f4cb61.png)
+13. For **Outline Colour**, select the black option. ![image colour option for outline](https://user-images.githubusercontent.com/45638590/228653257-4a9debd8-e25f-4fb2-a13c-852e84f4cb61.png)
 
-14. Click Done then click the Counts and Amounts style options.  
+14. Click Done then click the **Counts and Amounts** style options.  
 
    ![image](https://user-images.githubusercontent.com/45638590/228653512-667b6f1a-0037-43d8-a35c-113ffcd9dc19.png)
 
@@ -96,23 +96,21 @@ In some respects, visualization in ArcGIS Online offers more options and simpler
    ![image](https://user-images.githubusercontent.com/45638590/228654737-4d6af67d-0edb-4314-bd6c-c03b798c556d.png)
 
 16. Click Done twice.  
-17. To give the map a little 'pop', click the effects options ![image](https://user-images.githubusercontent.com/45638590/228655102-85daf1b8-64e3-4f8a-940e-43f3f0f7e230.png) 
-18. Toggle on the Drop Shadow option.  
+17. To give the map a little 'pop', click the effects options ![image](https://user-images.githubusercontent.com/45638590/228655102-85daf1b8-64e3-4f8a-940e-43f3f0f7e230.png). 
+18. Toggle on the **Drop Shadow** option.  
 
    ![image of final map with trees symbolized](https://user-images.githubusercontent.com/45638590/228655289-a9109e1d-569a-4980-a071-a09d760c1140.png)  
 
-19. Click the Save button from the left hand menu and save the map with a unique name.
-20. To share your map as an image, click ![image print button](https://user-images.githubusercontent.com/45638590/228656138-a673d0c7-a606-4047-b569-07e43bbbe0a1.png)
-21. Click Advanced Options and enter a title, set scale (~4500), author, copyright and check the box to include a legend.
-22. Click Export. When the file is complete there will be a link to your file below the Export button.
+19. Click the **Save** button from the left hand menu and save the map with a unique name.
+20. To share your map as an image, click ![image print button](https://user-images.githubusercontent.com/45638590/228656138-a673d0c7-a606-4047-b569-07e43bbbe0a1.png).
+21. Click **Advanced Options** and enter a title, set scale (~4500), author, copyright and check the box to include a legend.
+22. Click **Export**. When the file is complete there will be a link to your file below the Export button.
 
    ![image](https://user-images.githubusercontent.com/45638590/228656813-240732c2-0813-4246-907d-4b8e22322731.png)  
 
    ![image of final map](https://user-images.githubusercontent.com/45638590/228657032-ca430898-220c-4584-82ba-4ac04928a95d.png)  
 
 **NOTE: In some instances, the legend may be too large to fit on the page size map.**
-
-"tree tutorial Chippewa data" tags to find the map on AGOL
 
 
 
