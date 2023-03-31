@@ -66,9 +66,9 @@ This **.lpkx** can be shared with colleagues who are also using ArcGIS Pro.
 
 In some respects, visualization in ArcGIS Online offers more options and simpler workflows.
 
-1. Go to https://arcgis.com and sign in to your ArcGIS Organization, brock.maps.arcgis.com > Brock university (when prompted with the Brock authentication page, enter your Brock credentials.
-2. Click Map at the top of the screen. 
-3. Click Add and change the folder from **My Content** to **ArcGIS Online**.
+1. Go to [https://arcgis.com](https://arcgis.com) and sign in to your ArcGIS Organization, brock.maps.arcgis.com > Brock university (when prompted with the Brock authentication page, enter your Brock credentials.
+2. Click **Map** at the top of the screen. 
+3. Click **Add** and change the folder from **My Content** to **ArcGIS Online**.
 4. Enter the keywords "Chippewa tree tutorial" and click the plus sign to add the layer to your map.
 
    ![image of add layer in arcgis online](https://user-images.githubusercontent.com/45638590/228650762-ec325a71-09fc-43ba-b1ca-b7f921953ee8.png)
