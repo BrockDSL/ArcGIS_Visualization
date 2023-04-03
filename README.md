@@ -114,7 +114,8 @@ In some respects, visualization in ArcGIS Online offers more options and simpler
    ![image](https://user-images.githubusercontent.com/45638590/229566354-15240116-92a2-4b92-8c47-5ce42ddb0075.png)
 23. Click Save. 
 
-![image](https://user-images.githubusercontent.com/45638590/229566586-82538727-1a58-4dcc-8647-585ad4ebf934.png)
+![image](https://user-images.githubusercontent.com/45638590/229566586-82538727-1a58-4dcc-8647-585ad4ebf934.png)  
+
 The map now shows all trees that contain the word 'maple' in the species description. 
 
 ----
@@ -132,7 +133,7 @@ The map now shows all trees that contain the word 'maple' in the species descrip
 
 **NOTE: In some instances, the legend may be too large to fit on the page size map.**
 
-    ![image of layout for filtered data - Maple Trees](https://user-images.githubusercontent.com/45638590/229568680-3655b2fe-0a46-420d-bc65-2b7701bf7c74.png)
+   ![image of layout for filtered data Maple Trees](https://user-images.githubusercontent.com/45638590/229568680-3655b2fe-0a46-420d-bc65-2b7701bf7c74.png)
 
 
 
