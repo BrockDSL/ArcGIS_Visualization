@@ -105,23 +105,41 @@ In some respects, visualization in ArcGIS Online offers more options and simpler
 
     ![image of final map with trees symbolized](https://user-images.githubusercontent.com/45638590/228655289-a9109e1d-569a-4980-a071-a09d760c1140.png)  
 
-19. Click the **Save** button from the left hand menu and save the map with a unique name.
-20. To share your map as an image, click ![image print button](https://user-images.githubusercontent.com/45638590/228656138-a673d0c7-a606-4047-b569-07e43bbbe0a1.png).
-21. Click **Advanced Options** and enter a title, set scale (~4500), author, copyright and check the box to include a legend.
-22. Click **Export**. When the file is complete there will be a link to your file below the Export button.
+19. One final visualization tip: Filter. We will filter the display based on species name such that only 'maple' trees display.
+20. Click the Filter tool from the right side menu ![image](https://user-images.githubusercontent.com/45638590/229565365-f0ab9a91-cc8c-4749-8843-24272b11affa.png)
+. The Filter dialogue box appears.
+21. Click ![image](https://user-images.githubusercontent.com/45638590/229566147-a3176646-def7-4c82-b922-e5e66c0a5be4.png)
+  
+22. From the dropdown options, create the following expression: 
+   ![image](https://user-images.githubusercontent.com/45638590/229566354-15240116-92a2-4b92-8c47-5ce42ddb0075.png)
+23. Click Save. 
 
-    ![image](https://user-images.githubusercontent.com/45638590/228656813-240732c2-0813-4246-907d-4b8e22322731.png)  
+![image](https://user-images.githubusercontent.com/45638590/229566586-82538727-1a58-4dcc-8647-585ad4ebf934.png)
+The map now shows all trees that contain the word 'maple' in the species description. 
+
+----
+
+##  Save and Export 
+
+1. Click the **Save** button from the left hand menu and save the map with a unique name.
+2. To share your map as an image, click ![image print button](https://user-images.githubusercontent.com/45638590/228656138-a673d0c7-a606-4047-b569-07e43bbbe0a1.png).
+3. Click **Advanced Options** and enter a title, set scale (~4500), author, copyright and check the box to include a legend.
+4. Click **Export**. When the file is complete there will be a link to your file below the Export button.
+
+    ![image of Export dialogue box](https://user-images.githubusercontent.com/45638590/228656813-240732c2-0813-4246-907d-4b8e22322731.png)  
 
    ![image of final map](https://user-images.githubusercontent.com/45638590/228657032-ca430898-220c-4584-82ba-4ac04928a95d.png)  
 
 **NOTE: In some instances, the legend may be too large to fit on the page size map.**
+
+    ![image of layout for filtered data - Maple Trees](https://user-images.githubusercontent.com/45638590/229568680-3655b2fe-0a46-420d-bc65-2b7701bf7c74.png)
 
 
 
 ----
 
 ## Next Steps (Optional)
-Layout, Sharing, Printing
+ArcGIS Pro: Layout, Sharing, Printing
 
 ----
 
