@@ -129,16 +129,12 @@ The map now shows all trees that contain the word 'maple' in the species descrip
 
 1. Click the **Save** button from the left hand menu and save the map with a unique name.
 2. To share your map as an image, click ![image print button](https://user-images.githubusercontent.com/45638590/228656138-a673d0c7-a606-4047-b569-07e43bbbe0a1.png).
-3. Click **Advanced Options** and enter a title, set scale (~4500), author, copyright and check the box to include a legend.
+3. Click **Advanced Options** and enter a title, set scale (~15,000), author, copyright and check the box to include a legend.
 4. Click **Export**. When the file is complete there will be a link to your file below the Export button.
 
     ![image of Export dialogue box](https://user-images.githubusercontent.com/45638590/228656813-240732c2-0813-4246-907d-4b8e22322731.png)  
 
-   ![image of final map](https://user-images.githubusercontent.com/45638590/228657032-ca430898-220c-4584-82ba-4ac04928a95d.png)  
-
-**NOTE: In some instances, the legend may be too large to fit on the page size map.**
-
-   ![image of layout for filtered data Maple Trees](https://user-images.githubusercontent.com/45638590/229568680-3655b2fe-0a46-420d-bc65-2b7701bf7c74.png)
+    ![image](https://user-images.githubusercontent.com/45638590/229874007-cce0df8f-cc61-4705-8458-8370953c4bfd.png)
 
 
 
