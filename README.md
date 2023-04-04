@@ -70,7 +70,7 @@ This **.lpkx** can be shared with colleagues who are also using ArcGIS Pro.
 
 In some respects, visualization in ArcGIS Online offers more options and simpler workflows.
 
-1. Go to [https://arcgis.com](https://arcgis.com) and sign in to your ArcGIS Organization, brock.maps.arcgis.com > Brock university (when prompted with the Brock authentication page, enter your Brock credentials.
+1. Go to [https://arcgis.com](https://arcgis.com) and sign in to your ArcGIS Organization, brock.maps.arcgis.com > Brock university (when prompted with the Brock authentication page, enter your Brock credentials).
 2. Click **Map** at the top of the screen. 
 3. Click **Add** and change the folder from **My Content** to **ArcGIS Online**.
 4. Enter the keywords "Chippewa tree tutorial" and click the plus sign to add the layer to your map.
@@ -79,44 +79,51 @@ In some respects, visualization in ArcGIS Online offers more options and simpler
 
 5. Click the back arrow to return to the layer listing ![image](https://user-images.githubusercontent.com/45638590/228650982-2a30be04-cb2c-435d-9f49-bc54cdaa3541.png)
 
-6. Click the **Styles** button ![image](https://user-images.githubusercontent.com/45638590/228651117-f0f829ec-0889-4eae-a9dd-caa7a5838585.png) from the menu to the right.
-7. In the Styles pane, make the following selections:
-8. From Step One, click ![image add field button](https://user-images.githubusercontent.com/45638590/228651667-095d1d71-c2cc-42cc-a8d4-bab9cf88f7f0.png) then select the field to map, in this case, select **TreeSpecies**.
-9. Click ![image add field button](https://user-images.githubusercontent.com/45638590/228651854-733cc3ba-65c1-48b0-a062-c5ef6092ff5a.png) again and select **DBHTrunk**. The symbols are updated with colours representing species and proportional symbols representing diameter. 
-10. From Step 2 of the Styles pane, **Pick a Style**, select **Style Options** for types and size. There will be 2 options: one for unique symbols and one for counts and amounts.
-11. Click style options for **unique symbols**. 
+**Applying a Filter**  
 
-    ![image unique symbols options](https://user-images.githubusercontent.com/45638590/228652994-b177d8ee-5c6e-4c6f-9080-34444db42b9f.png)
+To start off, we will filter out the species of trees that include 'maple' in the species description.
 
-12. Click the colour ramp for symbol style.  
-13. For **Outline Colour**, select the black option. ![image colour option for outline](https://user-images.githubusercontent.com/45638590/228653257-4a9debd8-e25f-4fb2-a13c-852e84f4cb61.png)
-
-14. Click Done then click the **Counts and Amounts** style options.  
-
-    ![image](https://user-images.githubusercontent.com/45638590/228653512-667b6f1a-0037-43d8-a35c-113ffcd9dc19.png)
-
-15. Scroll, if necessary, to change the size range from 90 to 20.  
-
-    ![image](https://user-images.githubusercontent.com/45638590/228654737-4d6af67d-0edb-4314-bd6c-c03b798c556d.png)
-
-16. Click Done twice.  
-17. To give the map a little 'pop', click the effects options ![image](https://user-images.githubusercontent.com/45638590/228655102-85daf1b8-64e3-4f8a-940e-43f3f0f7e230.png). 
-18. Toggle on the **Drop Shadow** option.  
-
-    ![image of final map with trees symbolized](https://user-images.githubusercontent.com/45638590/228655289-a9109e1d-569a-4980-a071-a09d760c1140.png)  
-
-19. One final visualization tip: Filter. We will filter the display based on species name such that only 'maple' trees display.
-20. Click the Filter tool from the right side menu ![image](https://user-images.githubusercontent.com/45638590/229565365-f0ab9a91-cc8c-4749-8843-24272b11affa.png)
+1. Click the Filter tool from the right side menu ![image](https://user-images.githubusercontent.com/45638590/229565365-f0ab9a91-cc8c-4749-8843-24272b11affa.png)
 . The Filter dialogue box appears.
-21. Click ![image](https://user-images.githubusercontent.com/45638590/229566147-a3176646-def7-4c82-b922-e5e66c0a5be4.png)
+2. Click ![image](https://user-images.githubusercontent.com/45638590/229566147-a3176646-def7-4c82-b922-e5e66c0a5be4.png)
   
-22. From the dropdown options, create the following expression: 
+3. From the dropdown options, create the following expression: 
    ![image](https://user-images.githubusercontent.com/45638590/229566354-15240116-92a2-4b92-8c47-5ce42ddb0075.png)
-23. Click Save. 
+4. Click Save. 
 
 ![image](https://user-images.githubusercontent.com/45638590/229566586-82538727-1a58-4dcc-8647-585ad4ebf934.png)  
 
 The map now shows all trees that contain the word 'maple' in the species description. 
+
+**Symbols**  
+
+1. Click the **Styles** button ![image](https://user-images.githubusercontent.com/45638590/228651117-f0f829ec-0889-4eae-a9dd-caa7a5838585.png) from the menu to the right.
+2. In the Styles pane, make the following selections:
+3. From Step One, click ![image add field button](https://user-images.githubusercontent.com/45638590/228651667-095d1d71-c2cc-42cc-a8d4-bab9cf88f7f0.png) then select the field to map, in this case, select **TreeSpecies**.
+4. Click ![image add field button](https://user-images.githubusercontent.com/45638590/228651854-733cc3ba-65c1-48b0-a062-c5ef6092ff5a.png) again and select **DBHTrunk**. The symbols are updated with colours representing species and proportional symbols representing diameter. 
+5. From Step 2 of the Styles pane, **Pick a Style**, select **Style Options** for types and size. There will be 2 options: one for unique symbols and one for counts and amounts.
+6. Click style options for **unique symbols**. 
+
+    ![image unique symbols options](https://user-images.githubusercontent.com/45638590/228652994-b177d8ee-5c6e-4c6f-9080-34444db42b9f.png)
+
+7. Click the colour ramp for symbol style.  
+8. For **Outline Colour**, select the black option. ![image colour option for outline](https://user-images.githubusercontent.com/45638590/228653257-4a9debd8-e25f-4fb2-a13c-852e84f4cb61.png)
+
+9. Click Done then click the **Counts and Amounts** style options.  
+
+    ![image](https://user-images.githubusercontent.com/45638590/228653512-667b6f1a-0037-43d8-a35c-113ffcd9dc19.png)
+
+10. Scroll, if necessary, and change the upper size range to 20.  
+
+    ![image](https://user-images.githubusercontent.com/45638590/228654737-4d6af67d-0edb-4314-bd6c-c03b798c556d.png)
+
+11. Click Done twice.  
+12. To give the map a little 'pop', click the effects options ![image](https://user-images.githubusercontent.com/45638590/228655102-85daf1b8-64e3-4f8a-940e-43f3f0f7e230.png). 
+13. Toggle on the **Drop Shadow** option.  
+
+    ![image of final map with trees symbolized](https://user-images.githubusercontent.com/45638590/228655289-a9109e1d-569a-4980-a071-a09d760c1140.png)  
+
+
 
 ----
 
