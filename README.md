@@ -121,9 +121,7 @@ The map now shows all trees that contain the word 'maple' in the species descrip
 12. To give the map a little 'pop', click the effects options ![image](https://user-images.githubusercontent.com/45638590/228655102-85daf1b8-64e3-4f8a-940e-43f3f0f7e230.png). 
 13. Toggle on the **Drop Shadow** option.  
 
-    ![image of final map with trees symbolized](https://user-images.githubusercontent.com/45638590/228655289-a9109e1d-569a-4980-a071-a09d760c1140.png)  
-
-
+    ![image of final map with trees symbolized](https://user-images.githubusercontent.com/45638590/229873230-cd74b560-e74b-4055-b232-57dc1d852f76.png)  
 
 ----
 
