@@ -89,12 +89,13 @@ To start off, we will filter out the species of trees that include 'maple' in th
   
 3. From the dropdown options, create the following expression:  
 
-   ![image](https://user-images.githubusercontent.com/45638590/229566354-15240116-92a2-4b92-8c47-5ce42ddb0075.png)  
+   ![image](https://user-images.githubusercontent.com/45638590/230100170-d36191fa-c539-46d8-b377-eb94b625b5d9.png)  
+   
 4. Click Save. 
 
-![image](https://user-images.githubusercontent.com/45638590/229566586-82538727-1a58-4dcc-8647-585ad4ebf934.png)  
+   ![image](https://user-images.githubusercontent.com/45638590/230100355-806e8b8f-2b54-4b2e-8471-b3274ea7e442.png)  
 
-The map now shows all trees that contain the word 'maple' in the species description. 
+The map now shows all trees that contain the word 'Maple' in the species description. (NOTE: use a capital "M" in "Maple") 
 
 **Symbols**  
 
