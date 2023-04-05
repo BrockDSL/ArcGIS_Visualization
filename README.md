@@ -87,8 +87,9 @@ To start off, we will filter out the species of trees that include 'maple' in th
 . The Filter dialogue box appears.
 2. Click ![image](https://user-images.githubusercontent.com/45638590/229566147-a3176646-def7-4c82-b922-e5e66c0a5be4.png)
   
-3. From the dropdown options, create the following expression: 
-   ![image](https://user-images.githubusercontent.com/45638590/229566354-15240116-92a2-4b92-8c47-5ce42ddb0075.png)
+3. From the dropdown options, create the following expression:  
+
+   ![image](https://user-images.githubusercontent.com/45638590/229566354-15240116-92a2-4b92-8c47-5ce42ddb0075.png)  
 4. Click Save. 
 
 ![image](https://user-images.githubusercontent.com/45638590/229566586-82538727-1a58-4dcc-8647-585ad4ebf934.png)  
