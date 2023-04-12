@@ -74,9 +74,9 @@ In some respects, visualization in ArcGIS Online offers more options and simpler
 1. Go to [https://arcgis.com](https://arcgis.com) and sign in to your ArcGIS Organization, brock.maps.arcgis.com > Brock university (when prompted with the Brock authentication page, enter your Brock credentials).
 2. Click **Map** at the top of the screen. 
 3. Click **Add** and change the folder from **My Content** to **ArcGIS Online**.
-4. Enter the keywords "Chippawa tree tutorial" and click the plus sign to add the layer to your map.
+4. Enter the keywords "Chippawa tree JOIN tutorial" and click the plus sign to add the layer to your map.
 
-   ![image of add layer in arcgis online](https://user-images.githubusercontent.com/45638590/228650762-ec325a71-09fc-43ba-b1ca-b7f921953ee8.png)
+   ![image adding layers in arcgis online](https://user-images.githubusercontent.com/45638590/231547974-974f5796-510c-4902-aa5f-0a4e514046e4.png)
 
 5. Click the back arrow to return to the layer listing ![image](https://user-images.githubusercontent.com/45638590/228650982-2a30be04-cb2c-435d-9f49-bc54cdaa3541.png)
 
