@@ -15,9 +15,9 @@ We will be mapping tree sample data for the neighbourhood of Bridgewater near Ni
 ----
 
 ## Visualization in ArcGIS Pro
-Although there are many ways of creating visualizations using GIS technologies, we will explore some simple options for unique colours and proportional symbols. 
+Although there are many ways of creating visualizations using GIS technologies, we will explore some simple options using unique colours for species and proportional symbols for Diameter at Breast Height (DBH). 
 
-1. Run ArcGIS Pro and sign in using the organization's sign in workflow **insert link to video**
+1. Run ArcGIS Pro and sign in using the organization's sign in workflow [https://youtu.be/GqH4UHTUf2s](https://youtu.be/GqH4UHTUf2s)
 2. In a new map, add the joined layer from the previous exercise. Alternately, download the zipped shapefile [here](https://github.com/BrockDSL/ArcGIS_Visualization/blob/main/TreeSampleChippawa%20_XYTableToPoint.zip). Be sure to unzip the file before attempting these steps. **HINT: Right-click the zip file in Windows File Explorer and select 'Extract all'.**
 
    ![image showing shapefile in arcgis pro window](https://user-images.githubusercontent.com/45638590/228621113-640a8714-8a22-42ae-807e-1ec3f1d70661.png)
