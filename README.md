@@ -18,9 +18,10 @@ We will be mapping tree sample data for the neighbourhood of Bridgewater near Ni
 Although there are many ways of creating visualizations using GIS technologies, we will explore some simple options using unique colours for species and proportional symbols for Diameter at Breast Height (DBH). 
 
 1. Run ArcGIS Pro and sign in using the organization's sign in workflow [https://youtu.be/GqH4UHTUf2s](https://youtu.be/GqH4UHTUf2s)
-2. In a new map, add the joined layer from the previous exercise. Alternately, download the zipped shapefile [here](https://github.com/BrockDSL/ArcGIS_Visualization/blob/main/TreeSampleChippawa%20_XYTableToPoint.zip). Be sure to unzip the file before attempting these steps. **HINT: Right-click the zip file in Windows File Explorer and select 'Extract all'.**
+2. In a new map, add the joined layer from the previous exercise. Alternately, download the zipped shapefile [here](https://github.com/BrockDSL/ArcGIS_Visualization/blob/main/TreeAttributesJOIN.zip). Be sure to unzip the file before attempting these steps. **HINT: Right-click the zip file in Windows File Explorer and select 'Extract all'.**
 
-   ![image showing shapefile in arcgis pro window](https://user-images.githubusercontent.com/45638590/228621113-640a8714-8a22-42ae-807e-1ec3f1d70661.png)
+   ![image showing shapefile in arcgis pro window](https://user-images.githubusercontent.com/45638590/231541333-8d8d1a69-2f7c-4632-a55c-3d5a54a91b47.png)
+
   
 3. From the Contents pane on the left side of the map view, double-click **map** ![image of map frame](https://user-images.githubusercontent.com/45638590/228622520-6ffda3b0-5324-47fa-9cc7-1fdf5aadeee4.png) to open the map frame properties. It is good practise to set the projection of the map frame to a local coordinate system.
 4. From the map properties window, click **Coordinate System** and enter "UTM" in the search box.
@@ -29,12 +30,12 @@ Although there are many ways of creating visualizations using GIS technologies, 
 7. Select **NAD 1983 UTM Zone 17N** for the Niagara area.
 8. Click OK.
 
-9. With the layer selected from the Contents listing, click the **Feature Layer** tab at the top.
+9. With the layer selected from the **Contents** listing, click the **Feature Layer** tab at the top.
 10. Click **Symbology**. The Symbology pane appears to the right of the map view. 
 11. From the **Primary Symbology** dropdown, select **Unique Values** and select Field1 -> Tree Species
 12. Select a colour scheme from the dropdown.  
 
-   ![image](https://user-images.githubusercontent.com/45638590/228628961-9c6ea78f-95d6-44aa-954e-e65f14c769d8.png) 
+   ![image of symbology pane](https://user-images.githubusercontent.com/45638590/231542630-fb5c5f54-b607-4f1b-92be-1649d7ad22d4.png) 
  
 13. To vary symbology by size as well as colour, click ![image](https://user-images.githubusercontent.com/45638590/228629130-dea883ef-7aee-4a28-b44f-fadde23c7baf.png)
  from the Symbology pane.
@@ -42,7 +43,7 @@ Although there are many ways of creating visualizations using GIS technologies, 
 15. Check the box to **Enable size range** and adjust the range to be 2 at minimum and 20 at maximum.
 16. Scroll down and select **Show in Legend**. 
 
-   ![image of symbology settings](https://user-images.githubusercontent.com/45638590/228630103-27c1eddb-6173-40a4-a737-ff3e4c8347c2.png)
+   ![image of symbology settings](https://user-images.githubusercontent.com/45638590/231543031-f152f7fb-5e9f-48a8-b5d9-e58d893df66b.png)
 
 The trees are now symbolized by colour for tree species and size for diameter at breast height (DBH).
 
