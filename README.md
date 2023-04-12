@@ -10,7 +10,7 @@ In preparation for this tutorial, you will need an organizational account with E
 
 **The Scenario**
 
-We will be mapping tree sample data for the neighbourhood of Bridgewater near Niagara Falls and Chippewa. Tabular data was joined with the geospatial data creating a powerful connection that will allow us to visualize attributes such as diameter at breast height (DBH) and tree species. Although this example uses point data, the same general steps could apply to boundary files such as census tracts or municipal boundaries and associated tabular data.
+We will be mapping tree sample data for the neighbourhood of Bridgewater near Niagara Falls and Chippawa. Tabular data was joined with the geospatial data creating a powerful connection that will allow us to visualize attributes such as diameter at breast height (DBH) and tree species. Although this example uses point data, the same general steps could apply to boundary files such as census tracts or municipal boundaries and associated tabular data.
 
 ----
 
@@ -18,7 +18,7 @@ We will be mapping tree sample data for the neighbourhood of Bridgewater near Ni
 Although there are many ways of creating visualizations using GIS technologies, we will explore some simple options for unique colours and proportional symbols. 
 
 1. Run ArcGIS Pro and sign in using the organization's sign in workflow **insert link to video**
-2. In a new map, add the joined layer from the previous exercise. Alternately, download the zipped shapefile [here](https://github.com/BrockDSL/ArcGIS_Visualization/blob/main/TreeSampleChippewa%20_XYTableToPoint.zip). Be sure to unzip the file before attempting these steps. **HINT: Right-click the zip file in Windows File Explorer and select 'Extract all'.**
+2. In a new map, add the joined layer from the previous exercise. Alternately, download the zipped shapefile [here](https://github.com/BrockDSL/ArcGIS_Visualization/blob/main/TreeSampleChippawa%20_XYTableToPoint.zip). Be sure to unzip the file before attempting these steps. **HINT: Right-click the zip file in Windows File Explorer and select 'Extract all'.**
 
    ![image showing shapefile in arcgis pro window](https://user-images.githubusercontent.com/45638590/228621113-640a8714-8a22-42ae-807e-1ec3f1d70661.png)
   
@@ -73,7 +73,7 @@ In some respects, visualization in ArcGIS Online offers more options and simpler
 1. Go to [https://arcgis.com](https://arcgis.com) and sign in to your ArcGIS Organization, brock.maps.arcgis.com > Brock university (when prompted with the Brock authentication page, enter your Brock credentials).
 2. Click **Map** at the top of the screen. 
 3. Click **Add** and change the folder from **My Content** to **ArcGIS Online**.
-4. Enter the keywords "Chippewa tree tutorial" and click the plus sign to add the layer to your map.
+4. Enter the keywords "Chippawa tree tutorial" and click the plus sign to add the layer to your map.
 
    ![image of add layer in arcgis online](https://user-images.githubusercontent.com/45638590/228650762-ec325a71-09fc-43ba-b1ca-b7f921953ee8.png)
 
