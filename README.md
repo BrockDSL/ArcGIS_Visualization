@@ -41,7 +41,7 @@ Although there are many ways of creating visualizations using GIS technologies, 
  from the Symbology pane.
 14. Click **Size** and select **DBHTrunk** from the field dropdown.
 15. Check the box to **Enable size range** and adjust the range to be 2 at minimum and 20 at maximum.
-16. Scroll down and select **Show in Legend**. 
+16. Scroll down and select **Show Legend**. 
 
    ![image of symbology settings](https://user-images.githubusercontent.com/45638590/231543031-f152f7fb-5e9f-48a8-b5d9-e58d893df66b.png)
 
@@ -51,7 +51,7 @@ The trees are now symbolized by colour for tree species and size for diameter at
 
 ## Saving and Sharing
 
-1. From the Contents listing, right-click the tree layer.
+1. From the **Contents** listing, right-click the tree layer.
 2. From the context menu, select **Sharing > Share as a layer package**. A layer package includes the assigned symbology and layer data your colleagues might need to work with the data effectively. 
 3. Under **Start Packaging** choose **Save package to file** (alternately, you could upload the package to ArcGIS Online).
 4. Under **Item Details** select a location and file name; summary and tags.
@@ -101,8 +101,8 @@ The map now shows all trees that contain the word 'Maple' in the species descrip
 **Symbols**  
 
 1. Click the **Styles** button ![image](https://user-images.githubusercontent.com/45638590/228651117-f0f829ec-0889-4eae-a9dd-caa7a5838585.png) from the menu to the right.
-2. In the Styles pane, make the following selections:
-3. From Step One, click ![image add field button](https://user-images.githubusercontent.com/45638590/228651667-095d1d71-c2cc-42cc-a8d4-bab9cf88f7f0.png) then select the field to map, in this case, select **TreeSpecies**.
+2. In the **Styles** pane, make the following selections:
+3. From **Step One**, click ![image add field button](https://user-images.githubusercontent.com/45638590/228651667-095d1d71-c2cc-42cc-a8d4-bab9cf88f7f0.png) then select the field to map, in this case, select **TreeSpecies**.
 4. Click ![image add field button](https://user-images.githubusercontent.com/45638590/228651854-733cc3ba-65c1-48b0-a062-c5ef6092ff5a.png) again and select **DBHTrunk**. The symbols are updated with colours representing species and proportional symbols representing diameter. 
 5. From Step 2 of the Styles pane, **Pick a Style**, select **Style Options** for types and size. There will be 2 options: one for unique symbols and one for counts and amounts.
 6. Click style options for **unique symbols**. 
