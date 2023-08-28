@@ -144,7 +144,7 @@ The map now shows all trees that contain the word 'Maple' in the species descrip
 ----
 
 ## Next Steps (Optional)
-ArcGIS Pro: Layout, Sharing, Printing
+[ArcGIS Pro: Layout, Sharing, Printing](https://brockdsl.github.io/ArcGIS-Layout/)
 
 ----
 
